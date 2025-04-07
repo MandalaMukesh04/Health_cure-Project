@@ -75,4 +75,22 @@ To set up and run the project, follow these steps:
 ```bash
 git clone https://github.com/your-repo/medical-disease-detection.git
 cd medical-disease-detection
+```
+
+### Install Dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the App:
+
+```bash
+python app.py
+```
+
+### Now open your browser and go to:
+http://127.0.0.1:5000/
+
+
 
